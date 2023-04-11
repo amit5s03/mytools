@@ -25,12 +25,6 @@ library(mytools)
 -->
 
 
-# My function
-
-```{r examples-my_fun}
-my_fun()
-```
-
 # get_info_data
 
     

@@ -18,30 +18,6 @@ library(testthat)
 pkgload::load_all(export_all = FALSE)
 ```
 
-# My function
-
-```{r function-my_fun}
-#' my_fun Title
-#'
-#' @return 1
-#' @export
-#'
-#' @examples
-my_fun <- function() {
-  1
-}
-```
-
-```{r examples-my_fun}
-my_fun()
-```
-
-```{r tests-my_fun}
-test_that("my_fun works", {
-
-})
-```
-
 # get_info_data
     
 ```{r function-get_info_data}
