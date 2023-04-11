@@ -6,6 +6,12 @@
 \usage{
 get_info_data(data)
 }
+\arguments{
+\item{data}{dataframe}
+}
+\value{
+return list of 2 :- dimension and fields of the dataframe
+}
 \description{
 This function gives the info on the dataframe
 }
